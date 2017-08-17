@@ -1,5 +1,6 @@
 C++ Prosjekt 2015
 =================
+Laget av Sondre Husevold (S198755) og Magnus Tønsager (S198761)
 
 Dette er vårt prosjekt i C++, våren 2015. Vi lagde en roguelike dungeon crawler ala [Nethack](http://www.nethack.org/)/[Pixel Dungeon](http://pixeldungeon.watabou.ru/).
 
@@ -8,3 +9,5 @@ Vi brukte Qt for å vise GUI og tiles og bruker et åpent og gratis fanmade tile
 Her er et eksempel hvordan det så ut: ![alt tag](https://github.com/SondreHusevold/DungeonWarrior/raw/master/eksempel.png)
 
 Se klassediagram for planlagt layout av klaserhierarki og metoder. 
+
+
